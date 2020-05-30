@@ -1,3 +1,3 @@
 # react-carousel
 
-Styling React using CSS Modules method.
+Styling React Component using CSS Modules method.
